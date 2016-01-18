@@ -1,0 +1,4 @@
+﻿  Renderer.cpp
+e:\onedrive\sjtu\se\se344_computergraphics\code\iteration1\iteration1\renderer.cpp(78): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+e:\onedrive\sjtu\se\se344_computergraphics\code\iteration1\iteration1\renderer.cpp(79): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  Iteration1.vcxproj -> E:\OneDrive\Sjtu\SE\SE344_ComputerGraphics\Code\Iteration1\Debug\Iteration1.exe
